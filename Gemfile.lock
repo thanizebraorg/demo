@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     CFPropertyList (2.3.1)
     diff-lcs (1.2.5)
@@ -48,7 +48,6 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  rake
   rhoconnect-client (= 5.2.0)
   rhodes (= 5.2.0)
   rhodes-containers (= 5.2.0)
