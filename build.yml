@@ -28,6 +28,7 @@ wm:
   #sdk: "Windows Mobile 6.5.3 Professional DTK (ARMV4I)"
 
 win32:
+  msvc: 2008
   deployqt: 1
   deploymsvc: 1
 
