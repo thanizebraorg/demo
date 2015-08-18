@@ -34,6 +34,8 @@ win32:
 
 extensions: ["rhoconnect-client"]
 
+app_type: "rhoelements"
+
 rhobundle:
   exclude_items:
   - thumb.db
