@@ -1,6 +1,6 @@
 #sdk: "C:/RhoMobileSuite5.2.0/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.2.0"
 sdkversion: 5.2.0
-name: demo
+name: demo.demo
 version: 1.0
 vendor: rhomobile
 build: debug
